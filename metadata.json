@@ -1,0 +1,5 @@
+{
+  "name": "FitSnap AI",
+  "description": "A smart fitness data extractor that converts screenshots from any workout app into structured activity summaries using Gemini's vision capabilities.",
+  "requestFramePermissions": []
+}
